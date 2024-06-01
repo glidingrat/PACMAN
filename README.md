@@ -26,8 +26,8 @@ Pacman je klasická arkádová hra, ve které hráč ovládá postavičku Pacman
 2. Otevření projektu v IDE (Visual Studio, Visual Studio Code).
 3. Zajištění, že jsou nainstalovány všechny potřebné závislosti (OptimizedPriorityQueue, System.Data.SqlClient).
 4. Kompilace a spuštění projektu.
-    nebo
-1. Spuštění EXE souboru s názvem PacMan.
+    
+1.NEBO Spuštění EXE souboru s názvem PacMan.
 
 ## Příklad použití A* algoritmu
 Pro implementaci A* algoritmu pro hledání cesty duchů k Pacmanovi je použita knihovna OptimizedPriorityQueue. Tato knihovna umožňuje efektivně implementovat prioritní frontu potřebnou pro A* algoritmus.
