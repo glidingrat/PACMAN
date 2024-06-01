@@ -1,0 +1,13 @@
+C:\Users\Lukas\Desktop\PACMAN\PacMan.exe
+C:\Users\Lukas\Desktop\PACMAN\PacMan.dll
+C:\Users\Lukas\Desktop\PACMAN\PacMan.deps.json
+C:\Users\Lukas\Desktop\PACMAN\PacMan.runtimeconfig.json
+C:\Users\Lukas\Desktop\PACMAN\PacMan.dll.config
+C:\Users\Lukas\Desktop\PACMAN\PacMan.pdb
+C:\Users\Lukas\Desktop\PACMAN\PriorityQueue.dll
+C:\Users\Lukas\Desktop\PACMAN\System.Data.SqlClient.dll
+C:\Users\Lukas\Desktop\PACMAN\runtimes\win-arm64\native\sni.dll
+C:\Users\Lukas\Desktop\PACMAN\runtimes\win-x64\native\sni.dll
+C:\Users\Lukas\Desktop\PACMAN\runtimes\win-x86\native\sni.dll
+C:\Users\Lukas\Desktop\PACMAN\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lukas\Desktop\PACMAN\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
